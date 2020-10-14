@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Compile makeLED-hw5.cpp and create executable makeLED-hw5"
+g++ makeLED-hw5.cpp -o makeLED-hw5
+echo "Finished"
